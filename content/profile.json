@@ -1,0 +1,13 @@
+{
+  "name": "Manuel Ramírez Rodríguez",
+  "title": "Estudiante en ITESZ | Desarrollador Full Stack | React Native & Firebase | Python, JavaScript | Git & DevOps",
+  "tagline": "Desarrollador Full Stack en formación, con dominio en Python, Java, React y React Native, junto con bases de datos SQL y NoSQL. Apasionado por crear soluciones con impacto real, actualmente colaborando en proyectos de desarrollo e implementación en la nube con AWS en CompuCloud.",
+  "location": "México",
+  "links": {
+    "linkedin": "https://linkedin.com/in/manuelramírez-mich",
+    "github": "https://github.com/Manuelillo-dev",
+    "emailPersonal": "mailto:manuel.raamirez03@gmail.com",
+    "emailPro": "mailto:manuel.ramirez@compucloud.com.mx",
+    "cv": "/Profile.pdf"
+  }
+}
