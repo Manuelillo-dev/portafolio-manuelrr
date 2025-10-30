@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #ffffff;
+  --fg: #0f172a;
+  --muted: #64748b;
+}
+
+.dark{
+  --bg: #0b1220;
+  --fg: #e6eef8;
+  --muted: #9aa6bd;
+}
+
+body{
+  background-color: var(--bg);
+  color: var(--fg);
+}
